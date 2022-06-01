@@ -1,0 +1,18 @@
+{
+  "Title": "Meadows",
+  "Type": "map",
+  "Org": "devultj",
+  "Ident": "spire_meadows",
+  "Schema": 1,
+  "HasAssets": true,
+  "AssetsPath": "",
+  "ResourcePaths": null,
+  "HasCode": false,
+  "CodePath": null,
+  "RootNamespace": null,
+  "Metadata": {
+    "GameSupport": [
+      "devultj.spire"
+    ]
+  }
+}
